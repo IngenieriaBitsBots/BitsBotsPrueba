@@ -1,1 +1,4 @@
-Flask==2.3.3
+azure-communication-callautomation
+azure-identity
+flask
+azure-cognitiveservices-speech
